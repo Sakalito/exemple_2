@@ -1,0 +1,37 @@
+.process {
+  visibility: hidden;
+  width: 450px;
+  min-height: 500px;
+  margin-right: 12rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 2rem;
+  color : #2d343e;
+
+  h5 {
+    margin-bottom: 5rem;
+    font-weight: 400;
+    color: #2d343e;;
+    span {
+      color: #2d343e;
+    }
+  }
+  h4 {
+    color:#2d343e;
+    
+  }
+  p {
+    color: #2d343e;
+  }
+  .incoming {
+    color: #2d343e;
+  }
+  .crypt {
+    width: 100%;
+    overflow: auto;
+    height: 100%;
+    color : #2d343e;
+  }
+}
